@@ -1,4 +1,4 @@
-# PF2e Kitsune of Golarion: Spell Trickster
+# PF2e Kitsune of Golarion: Starspinners
 
 Kitsune of Golarion: Starspinners delivers an archetype that gives your star orb a punch, with options for expanding on your innate spells and using your fortified star orb familiar as a telepathic cannonball of doom.
 
