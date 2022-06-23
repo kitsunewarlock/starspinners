@@ -1,0 +1,30 @@
+{
+  "name": "pf2e-starspinners",
+  "title": "PF2e Starspinners",
+  "description": "Enhance, fortify, and launch star orb familiars as weapons using the Starspinner archetype from Kitsune of Golarion: Starspinners",
+  "author": "Dustin Knight",
+  "version": "1.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+    "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+    "url": "https://github.com/kitsunewarlock/starspinners",
+  "manifest": "https://raw.githubusercontent.com/kitsunewarlock/starspinners/master/module.json",
+  "download": "https://github.com/kitsunewarlock/starspinners/archive/refs/heads/main.zip",
+  "packs": [    {
+      "label": "Starspinners - Feats",
+      "name": "starspinners-feats",
+      "path": "./packs/starspinners-feats.db",
+      "system": "pf2e",
+      "package": "pf2e-starspinners",
+      "private": false,
+	  "type": "Item"
+    }
+],
+  "system": [
+    "pf2e"
+	]
+}
+
